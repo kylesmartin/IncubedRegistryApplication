@@ -7,7 +7,7 @@ The Incubed Registry Application provides an interface to view information about
 Clone into this repository:
 
 ```bash
-git clone
+git clone https://github.com/kylesmartin/IncubedRegistryApplication.git
 ```
 
 Install dependencies: 
