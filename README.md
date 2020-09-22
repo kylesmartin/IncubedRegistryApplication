@@ -40,7 +40,7 @@ Given a signer address, the signer search outputs the following about the signer
 - Owner contract
 - Stage of node
 
-# Running the test file
+## Running the test file
 
 The test file can be found at /test/test.js. To run it, first run the server:
 
